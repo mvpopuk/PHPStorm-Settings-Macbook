@@ -7,7 +7,7 @@
   <option name="CONSOLE_FONT_NAME" value="MonoLisa" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="METHOD_SEPARATORS_COLOR" value="" />
+    <option name="METHOD_SEPARATORS_COLOR" value="e0e0e0" />
   </colors>
   <attributes>
     <option name="APACHE_CONFIG.ARG_LEXEM">
